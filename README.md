@@ -1,4 +1,4 @@
-# ONE: Lógica en programación:
+# ONE: Lógica en programación
 En este archivo podras acceder a mis aprendizajes y la aplicacion de ellos. Con el objetivo de realizar un juego básico de adivinación de un número secretro.
 ![caratula](https://github.com/user-attachments/assets/fef2f3ea-4747-49e8-8ce8-4d7457ae5e31)
 
